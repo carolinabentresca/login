@@ -1,23 +1,14 @@
 # Login
 
-# TEMA : Login-Registro-SpringMVC
+### Java Web / Web Application
 
-### Proyecto Java Web / Web Application
-
-
+## Proyecto SpringMVC, Login y Registro de usuario
   
-#PAQUETE "Config" : 
+- ### Conexión a la base de datos "logeo", mediante JdbcTemplate 
   
-  - CLASE "Conexion" :   Conexion a la base de datos "logeo", mediante JDBC.
+- ### Creamos Clase entidad, "usuarios", de la tabla "log" 
   
-#PAQUETE "Entity" :   
-  
-  - CLASE "usuarios" :   Clase entidad, de la tabla "log".
-  
-#PAQUETE "Controller" : 
-  
-  - CLASE "Controlador" :  Se encarga de atender los mensajes que manda
-    el usuario desde el menu principal "index.htm" y selecciona las vistas
-    "registro.htm","bien.htm","datos.htm","mod.htm","ok.htm","okUpdate.htm", que son utilizadas para 
-     mostrar el modelo (los datos manejados por la app).
+- ### Clase "Controlador", Se encarga de atender los mensajes que manda el usuario
+  ### desde el menu principal "index.htm" y selecciona las vistas que son 
+  ### utilizadas para  mostrar el modelo (los datos manejados por la app)
   
