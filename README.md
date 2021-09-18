@@ -1,16 +1,10 @@
-# login
+# Login
 
-# TEMA : login-registro-SpringMVC
+# TEMA : Login-Registro-SpringMVC
 
-#PROYECTO JAVA WEB : Web Application
+### Proyecto Java Web / Web Application
 
-#CARPETA "WEB-INF" :
-  
-  - applicationContext.xml : Archivo de config.
-  - dispatcher-Servlet.xml : Archivo de config.
-  - web.xml : Archivo de config.  
-  - jsp :   "index.jsp" / "registro.jsp" / "bien.jsp"/ "datos.jsp" /
-  "mod.jsp" / "ok.jsp" / "okUpdate.jsp".
+
   
 #PAQUETE "Config" : 
   
