@@ -12,7 +12,11 @@
 
 ![Captura de pantalla (19)](https://user-images.githubusercontent.com/88462536/133958195-5081ed26-343a-428c-adda-0859bebe604a.png)
 
-![Captura de pantalla (21)](https://user-images.githubusercontent.com/88462536/133958207-e576e095-5bb6-4ac3-952c-6187adcbeb43.png)
+![Captura de pantalla (60)](https://user-images.githubusercontent.com/88462536/134590305-c1bd8c34-ff77-4550-bad6-c30188db9e79.png)
+
+![Captura de pantalla (62)](https://user-images.githubusercontent.com/88462536/134590345-e77c5906-b3ee-4fb8-a595-5a1c2327e405.png)
+
+![Captura de pantalla (63)](https://user-images.githubusercontent.com/88462536/134590363-d33b2579-b505-4756-bd2c-6a48e9e5fce3.png)
 
   
 
